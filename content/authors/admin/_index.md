@@ -57,12 +57,12 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/One-WorkHardMan
 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Zhou Liu is a master's graduate student at the Engineering Center Laboratory of South-Central University for Nationalities. His research interests include diffusion models, image editing, and 3D reconstruction.
+Zhou Liu is a master's graduate student at the **Engineering Center Laboratory of South-Central University for Nationalities.**** His research interests include **diffusion models, image editing, and 3D reconstruction.**
 {style="text-align: justify;"}
