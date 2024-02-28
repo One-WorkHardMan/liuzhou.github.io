@@ -64,5 +64,5 @@ social:
 highlight_name: true
 ---
 
-Zhou Liu is a master's graduate student at the **Engineering Center Laboratory of South-Central University for Nationalities.**** His research interests include **diffusion models, image editing, and 3D reconstruction.**
+Zhou Liu is a master's graduate student at the **Engineering Center Laboratory of South-Central University for Nationalities**. His research interests include **diffusion models, image editing, and 3D reconstruction.**
 {style="text-align: justify;"}
