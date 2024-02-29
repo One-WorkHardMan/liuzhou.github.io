@@ -42,15 +42,15 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+<!--   - block: skills
     content:
       title: Skills
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '1'
-  - block: experience
+      columns: '1' -->
+<!--   - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -84,8 +84,8 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
-  - block: accomplishments
+      columns: '2' -->
+<!--   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -126,7 +126,7 @@ sections:
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
-      columns: '2'
+      columns: '2' -->
   - block: collection
     id: posts
     content:
@@ -154,7 +154,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+<!--   - block: portfolio
     id: projects
     content:
       title: Projects
@@ -180,7 +180,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: false -->
   - block: markdown
     content:
       title: Gallery
@@ -214,7 +214,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+<!--   - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -223,13 +223,13 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
-  - block: tag_cloud
+      view: compact -->
+<!--   - block: tag_cloud
     content:
       title: Popular Topics
     design:
-      columns: '2'
-  - block: contact
+      columns: '2' -->
+<!--   - block: contact
     id: contact
     content:
       title: Contact
@@ -279,5 +279,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '2' -->
 ---
