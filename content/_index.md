@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1' -->
-<!--   - block: experience
+  - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -84,8 +84,8 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2' -->
-<!--   - block: accomplishments
+      columns: '2'
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -126,7 +126,7 @@ sections:
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
-      columns: '2' -->
+      columns: '2'
   - block: collection
     id: posts
     content:
@@ -154,7 +154,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-<!--   - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -180,7 +180,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false -->
+      flip_alt_rows: false
   - block: markdown
     content:
       title: Gallery
