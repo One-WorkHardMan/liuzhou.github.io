@@ -3,6 +3,9 @@ title: 'Text-Driven Editing of Real Images using Diffusion Models with Error Cor
 authors:
   - Zhou Liu
   - Yican Zhange
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2024-01-01'
 publishDate: '2024-03-18T09:04:01.184462Z'
 publication_types: ['paper-conference']
